@@ -1,0 +1,11 @@
+{
+    "name": "jjrohrer/slttest2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JJ Rohrer",
+            "email": "jj.src@rohrer.org"
+        }
+    ],
+    "require": {}
+}
